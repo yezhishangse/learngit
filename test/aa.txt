@@ -1,4 +1,6 @@
 git is free
 
 git is good
-creat & simple
+
+Creat and simple
+
